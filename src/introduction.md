@@ -30,7 +30,7 @@ This documentation is divided into several sections to help people get started w
 ```Incentivizing Intelligence```
 We hope you find this documentation helpful as you explore and use Bittensor. If you have any questions or need further assistance, the Bittensor Discord is a great place to learn about the project. [Taostats.io](https://taostats.io/) is also a great place to see an overview of everything.
 
-# Authors Note
+# Authors Note - update 5/16/2023
 
 As the writer of this documentation, TAOBard, I hereby declare this:
 
@@ -42,3 +42,4 @@ I intend on releasing further documentation pending further experimentation and 
 
 Thank you, and I hope my contribution can spark a new wave of documentation for the Network. Some parts are taken from previous documentation, but I have added a great many files and information with this interpretation of documents. I look forward to learning more and both updating this documentation, but also, to integrate it into a website somewhere and from there, build more mdBooks about other things. 
 
+**Somebody mentioned I should leave a donation address here - so if you feel so inclined, I would be most grateful. 5Cysz8fsZdCycYicdqxUtbycV9ccBbFsyvkbpnZknRZvKCFR - I will continue to work on furthering documentation, and will have another book sometime soon.**

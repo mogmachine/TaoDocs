@@ -25,6 +25,8 @@
 - `ifconfig`: display network interface configuration
 
 
-# How do I learn Linux?
+# How do I learn Linux? - Edit 5/16/2023 
+
+Now that's it has released, Bard is a solid option for beginners. It's actually pretty decent - especially if you don't wanna pay for GPT4. Sometimes it can write code that's decent, but a bit spaghetti. 
 
 Gpt models. ChatGPT, whatever you can get your hands on is going to be *infinitely* better than reading a book. Now, if you wish to have a better grasp of what's happening and an in-depth knowledge: that's when you read information. But generally, gpt 3.5 turbo and especially GPT4 are incredible at programming and navigating Linux because there's so much documentation on both those fields in particular. Use GPT, it will be able to explain most things to you. 

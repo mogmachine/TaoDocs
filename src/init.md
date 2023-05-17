@@ -1,19 +1,7 @@
-# Documentation for the Bittensor network
+# What Should My Focus Be? 
 
-## Local development
+## Learning.
 
-### Setup
+This network is massive, increasingly complex, and something that not everybody can build on. Anybody who has ever mined knows it's a full time job, and requires a lot of trouble-shooting and updating. That being said, with the prompting network now a thing, fine-tuning models becomes more understandable as each day progresses. If you put in the time and effort with this network, you will be rewarded - and mining will get easier and more diverse as time progresses.
 
-1. First of all you need to have cargo installed in your machine.
-2. You have to install `mdbook` using cargo: `cargo install mdbook`
-
-### Build the site
-
-1. `mdbook build`
-2. `mdbook serve`
-3. Then you will have a local docs site available.
-
-
-***Important notice***
-mdBook will give you a clean interface, but this format is something good for any website going forward. From here, it's just building out the book.TOML file, along with any .js or other code you need. I highly recommend getting familiar with mdBook going forward, it's very nice if you want a better way to take notes. 
-
+With multi-modality soon to be integrated over time, there will be many more options as far as mining goes, and there's a lot of opportunity to make TAO as a developer at the moment. If you know how to train LLMs, this is an amazing community to get involved with. 

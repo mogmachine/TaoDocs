@@ -1,11 +1,11 @@
-# Welcome to the Docs - written in mdBook
-Hi, I'm TAOBard this is a community project supported by members of the Bittensor community, though mostly written by me. Any information here that is not mine is either sourced from public documentation, community announcements, or fact-checked prompts. 
+# Welcome to TaoDocs - written in mdBook
+Hi, I'm TAOBard - this is a community project supported by members of the Bittensor community, though mostly written/interpreted by me. I may quote people from the community, so if you see your words here, it is quite possible I copy pasted it or otherwise re-worded things from a discord thread I was reading into. Any information here that is not mine is either sourced from public documentation, community projects, or verified individuals within the Bittensor community. 
 
 I am convinced that the way forward is to educate people as to what is possible on this Network, but also, it's to inform people of a few things:
 
-1. ○ That what's going on is *real* and that there is science going on here. Complex algorithms are running this Network, and it is a Decentralized AI. This is factual - any network of sufficient power can run a decentralized miner if they're good enough. 
-2. ○ This has been built in relative silence for years. The devs are usually constantly working on projects, and extremely dedicated to building.
-3. ○ To even begin building a Validator on this network, you would need to be at an advanced level in computer science. I would argue intermediate if you're mining, and specializing in ML. 
+1. That what's going on is *real* and that there is science going on here. Complex algorithms are running this Network, and it is a Decentralized AI. This is factual - any network of sufficient power can run a decentralized miner if they're good enough. 
+2. This has been built in relative silence for years. The devs are usually constantly working on projects, and extremely dedicated to building.
+3. To even begin building a Validator on this network, you would need to be at an advanced level in computer science. I would argue intermediate if you're mining, and specializing in ML. 
 
 ## You can learn a lot if you just listen. 
 
@@ -26,3 +26,5 @@ This guide is for those who have just begun, who understand nothing of what is g
 If you would like to contribute further blue-prints, please get in contact with me as I would be happy to collaborate and learn from peers within the field. 
 
 Thank you to everybody who was supported me so far. I am releasing these documents free of charge for anybody to alter and integrate into their own websites. If you feel this knowledge is of use, and you would like to integrate it/alter it into your own website for the purposes of teaching, then feel free. The point of this is that it's open-source - with that being said, this is a blue-print. I will likely update this as time progresses, and I am likely to create a website for this particular book. 
+
+## Edit - Big thank you to MogMachine for hosting these on taostats. 

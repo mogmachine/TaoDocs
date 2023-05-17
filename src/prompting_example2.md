@@ -1,18 +1,13 @@
-# More Prompting Examples
+# More Prompting Examples - Updated 5/15/23
 
-**The following is from the example agent.py file.**
+**Here's a really basic example that will suffice for now, more updates to come soon!**
 
 ```import bittensor as bt
-import json
+llm = bt.BittensorLLM()
+llm('What is the capital of Texas?')
+```
 
-axon_client = bt.AxonClient(ip="127.0.0.1", port=9090)
 
-messages = [{"role": "user", "content": "What is the purpose of the Bittensor network?"}]
-encoded_messages = [json.dumps(message) for message in messages]
-
-response = axon_client.forward(encoded_messages)
-
-print("Response:", response)```
 
 
 
